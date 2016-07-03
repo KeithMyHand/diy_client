@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>  
+    <key>message_dialog_title_error</key>  
+    <string>错误信息</string>  
+    <key>user_name_is_null</key>  
+    <string>用户名不能为空</string>  
+    <key>user_password_is_null</key>  
+    <string>密码不能为空</string>  
+    <key>user_password_is_not_equal</key>  
+    <string>两次输入的密码不同</string>
+    <key>user_password_again_is_null</key>  
+    <string>请重新输入密码</string>  
+    <key>user_or_password_is_wrong</key>  
+    <string>用户名或密码错误！如没有账号请先注册或者点击找回密码。</string>  
+</dict> 
+</plist>
